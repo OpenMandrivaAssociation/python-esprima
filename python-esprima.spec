@@ -1,6 +1,6 @@
 Name:		python-esprima
 Version:	4.0.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/e/esprima/esprima-%{version}.tar.gz
 Summary:	ECMAScript parsing infrastructure for multipurpose analysis in Python
 URL:		https://pypi.org/project/esprima/
